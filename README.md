@@ -1,21 +1,12 @@
-<<<<<<< HEAD
-# galleryorcamera
 
 A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Alert-Dialog-gallery-or-camera
 alert dialog test and used from Image Picker Library in flutter
->>>>>>> 206ee5ba30840f767335291990a9ebcf08f7aca3
+![Screenshot_1589907286](https://user-images.githubusercontent.com/51218670/82366426-03d42d80-99c7-11ea-82f0-767d032e61a9.png)
+
+
+![Screenshot_1589908936](https://user-images.githubusercontent.com/51218670/82366479-1b131b00-99c7-11ea-849d-40644f2a7520.png)
+
+
+![Screenshot_1589908953](https://user-images.githubusercontent.com/51218670/82366514-249c8300-99c7-11ea-8dbf-1a15b5070dbc.png)
